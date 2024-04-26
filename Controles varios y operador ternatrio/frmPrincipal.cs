@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace Controles_varios_y_operador_ternatrio
 {
+    //modificacion de prueba
     public partial class frmPrincipal : Form
     {
         public frmPrincipal()
